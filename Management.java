@@ -99,6 +99,8 @@ public class Management implements ActionListener {
             namaTF.setText("");
             jabatanTF.setText("");
             gajiTF.setText("");
+
+            System.out.println(employeeInfo);
         }
     }
 }
